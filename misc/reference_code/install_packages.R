@@ -1,0 +1,6 @@
+install.packages("sets")
+install.packages('HapEstXXR')
+install.packages("stringr")
+install.packages("stringi")
+install.packages("infotheo")
+install.packages("proxy")
